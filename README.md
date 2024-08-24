@@ -1,6 +1,6 @@
-### Hi 👋, I'm Hamdi Ben Ghayadha from Tunisia.
+### Hi 👋, I'm Hamdi from Tunisia.
 
-I’m a Computer Science graduate and Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js), I excel in developing dynamic web applications and modern platforms.
+I’m a Computer Science graduate and Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js), excelling in developing dynamic web applications and modern platforms.
 
 **Connect with me:**
 
